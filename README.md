@@ -1,4 +1,4 @@
-##TALLER BÚSQUEDA Y ORDENAMIENTO:computer:
+<center>TALLER BÚSQUEDA Y ORDENAMIENTO:computer:<center/>
 
 ![version](https://pandorafms.com/blog/wp-content/uploads/2018/05/que-es-un-algoritmo-featured.png) 
 
