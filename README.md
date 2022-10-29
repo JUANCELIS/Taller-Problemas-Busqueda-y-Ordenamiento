@@ -37,7 +37,7 @@ _En el siguiente link puedes ver el video:_
 * [Explicacion:](Aca va el link de youtube)
 
  ## Autores 
-* SANTIAGO XXXXXX - 115XXXX
+* SANTIAGO MORENO GENTIL - 1152052 
 * JUAN DIEGO CELIS BLANCO - 1151876
 
 
