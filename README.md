@@ -29,7 +29,7 @@ _La herramienta utilizada para el desarrollo del trabajo fue:_
 
 <p
    align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" >
-   <align="center"><img src="(https://daramesh.com/main/wp-content/uploads/2018/02/NetBeans-IDE.png)" width="74" height="64" >  
+   <align="center"><img src="(https://netbeans.apache.org/images/apache-netbeans.svg)" width="74" height="64" >  
 </p>
 
 ## Documentacion
