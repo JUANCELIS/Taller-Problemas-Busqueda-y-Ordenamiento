@@ -17,7 +17,7 @@ TALLER DE BÚSQUEDA Y ORDENAMIENTO
 
 
 ## Algoritmos
-_Los algoritmos utilizados para el desarrollo del trabajo fue: Algoritmo de ordenamiento_
+_Los algoritmos utilizados para el desarrollo del trabajo fue:  Algoritmo de ordenamiento_
 
 
 ## Herramientas 
