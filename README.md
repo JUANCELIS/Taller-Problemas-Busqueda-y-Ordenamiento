@@ -1,6 +1,6 @@
 ![version](https://blog.truora.com/hubfs/Imported_Blog_Media/5ee0346d07f4bfd695181a35_arti%CC%81culos-min.png) 
 
-TALLER DE BÚSQUEDA Y ORDENAMIENTO
+# TALLER DE BÚSQUEDA Y ORDENAMIENTO
 
 
 
