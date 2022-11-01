@@ -48,5 +48,6 @@ _En el siguiente link puedes ver el video:_
  ## Bibliografía  
  
 * Algoritmos de <b> Ordenamiento </b> <b> [Problema de leetcode](https://leetcode.com/problems/sort-an-array). </b> 
+* en el siguiente video se explica como se crea un archivo.txt, se escriben datos en el archivo y se leen: <b> [Video Prueba](https://www.youtube.com/watch?v=zzN5ksCu-Zc). </b> 
 
  
