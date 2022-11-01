@@ -30,7 +30,7 @@ _La herramienta utilizada para el desarrollo del trabajo fue:_
 
 ## Documentacion
 _Puedes visualizar la documentacion en el siguiente enlace:_ 
-* [Algoritmos de Búsqueda y Ordenamiento](https://docs.google.com/document/d/1mOvtFSroNiDYuqa3o4Al7XkL_z-nVrA3/edit)
+* [Taller Busqueda y ordenamiento](https://docs.google.com/document/d/1mOvtFSroNiDYuqa3o4Al7XkL_z-nVrA3/edit)
 
 ## Video
 _En el siguiente link puedes ver el video:_
