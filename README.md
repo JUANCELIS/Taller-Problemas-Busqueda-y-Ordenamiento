@@ -25,9 +25,11 @@ _Los algoritmos utilizados para el desarrollo del trabajo fue:  Algoritmo de ord
 _La herramienta utilizada para el desarrollo del trabajo fue:_
 
 * [Java](https://www.java.com/es/) - Lenguaje de Programación
+* [Apache Netbeans](https://netbeans.apache.org/) - IDE
 
 <p
-   align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" >  
+   align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" >
+   <align="center"><img src="(https://daramesh.com/main/wp-content/uploads/2018/02/NetBeans-IDE.png)" width="74" height="64" >  
 </p>
 
 ## Documentacion
