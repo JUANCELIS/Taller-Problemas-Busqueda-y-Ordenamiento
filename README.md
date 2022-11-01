@@ -1,6 +1,6 @@
 <center>TALLER BÚSQUEDA Y ORDENAMIENTO:computer:<center/>
 
-![version](https://pandorafms.com/blog/wp-content/uploads/2018/05/que-es-un-algoritmo-featured.png) 
+![version](https://blog.truora.com/hubfs/Imported_Blog_Media/5ee0346d07f4bfd695181a35_arti%CC%81culos-min.png) 
 
 ## Tabla de Contenido
 
