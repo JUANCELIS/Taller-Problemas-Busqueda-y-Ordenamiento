@@ -37,8 +37,8 @@ _Puedes visualizar la documentacion en el siguiente enlace:_
 * [Taller Busqueda y ordenamiento](https://docs.google.com/document/d/1mOvtFSroNiDYuqa3o4Al7XkL_z-nVrA3/edit)
 
 ## Video
-_En el siguiente link puedes ver el video:_
-* [Explicacion:](https://www.youtube.com/watch?v=0tGRVI3RQGg)
+_En el siguiente link puedes ver el video explicando la solucion de el ejercicio de leetcode y el programa resolviendo el mismo ejercicio independientemente de la plataforma anteriomente mecionada:_
+* [Video explicacion](https://www.youtube.com/watch?v=0tGRVI3RQGg)
 
  ## Autores 
 * SANTIAGO MORENO GENTIL - 1152052 
