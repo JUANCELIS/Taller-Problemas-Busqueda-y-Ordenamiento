@@ -8,11 +8,11 @@ TALLER DE BÚSQUEDA Y ORDENAMIENTO
 
 * [Algoritmos Utilizados :memo:](#Algoritmos)
 * [Herramientas Utilizadas :memo:](#Herramientas)
-* [Documentacion :memo:](#Documentacion)
-* [Video Explicaion :memo:](#Video)
+* [Documentacíon :memo:](#Documentacion)
+* [Video Explicacíon :memo:](#Video)
 * [Autores :memo:](#autores)
 * [Conclusiones :memo:](#Conclusiones)
-* [Bibliografía :memo:](#bibliografía)
+* [Bíbliografía :memo:](#bibliografía)
 
 
 
