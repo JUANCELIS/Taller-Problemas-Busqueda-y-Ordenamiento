@@ -2,8 +2,6 @@
 
 # TALLER DE BÚSQUEDA Y ORDENAMIENTO
 
-
-
 ## Tabla de Contenido
 
 * [Algoritmos Utilizados :memo:](#Algoritmos)
@@ -22,14 +20,16 @@ _Los algoritmos utilizados para el desarrollo del trabajo fue:  Algoritmo de ord
 
 ## Herramientas 
 
-_La herramienta utilizada para el desarrollo del trabajo fue:_
+_Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 * [Java](https://www.java.com/es/) - Lenguaje de Programación
 * [Apache Netbeans](https://netbeans.apache.org/) - IDE
+* [LeetCode](https://leetcode.com/) - Plataforma.
 
 <p
    align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" >
    <align="center"><img src="https://netbeans.apache.org/images/apache-netbeans.svg" width="74" height="64" >  
+   <align="center"><img src="https://yt3.ggpht.com/_4ckMNwaILPG7tyaGFuDzzDaCJX69AQCAwOcqpbn0gQhezUcaH-rGTSkDI5j-vTvC40fLhD7J40=s900-c-k-c0x00ffffff-no-rj" width="74" height="69" > 
 </p>
 
 ## Documentacion
@@ -38,7 +38,7 @@ _Puedes visualizar la documentacion en el siguiente enlace:_
 
 ## Video
 _En el siguiente link puedes ver el video:_
-* [Explicacion:](Aca va el link de youtube)
+* [Explicacion:](https://www.youtube.com/watch?v=0tGRVI3RQGg)
 
  ## Autores 
 * SANTIAGO MORENO GENTIL - 1152052 
