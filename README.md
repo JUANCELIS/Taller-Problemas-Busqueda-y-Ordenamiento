@@ -34,7 +34,7 @@ _Las herramientas utilizadas para el desarrollo del trabajo fueron:_
 
 ## Documentacion
 _Puedes visualizar la documentacion en el siguiente enlace:_ 
-* [Taller Busqueda y ordenamiento](https://docs.google.com/document/d/1mOvtFSroNiDYuqa3o4Al7XkL_z-nVrA3/edit)
+* [Taller Busqueda y ordenamiento](https://drive.google.com/file/d/1xDOu-nt0j-gowxpOTjlaEd_3put6cxF9/view?usp=share_link)
 
 ## Video
 _En el siguiente link puedes ver el video explicando la solucion de el ejercicio de leetcode y el programa resolviendo el mismo ejercicio independientemente de la plataforma anteriomente mecionada:_
