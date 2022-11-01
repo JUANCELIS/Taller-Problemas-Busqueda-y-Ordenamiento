@@ -43,8 +43,8 @@ _En el siguiente link puedes ver el video:_
 * JUAN DIEGO CELIS BLANCO - 1151876
 
 
-## Conclusiones
-* ACA colocamos las conclusiones.
+## Conclusion
+* Los algoritmos de ordenamiento y búsqueda son esenciales en cualquier tipo de empresa u organización, gracias a estos se mejoran de manera considerable los tiempos de ejecución de cualquier tipo de petición que el usuario o administrador exija, gracias a la herramienta Leetcode podemos aprender a resolver infinidad de problemas de esta índole, y probar si son lo suficientemente eficientes, muchos de los algoritmos propuestos por la plataforma mencionada anteriormente como el ejercicio propuesto en nuestro caso pueden ser resueltos mediante métodos muy conocidos como el método de la inserción, burbuja, entre otros muchos casos, Su eficiencia se puede comprobar mediante casos de prueba que pueden ser propuestos aleatoriamente o manualmente, estos casos de prueba deben abarcar todas las posibilidades de casos.
 
 
  ## Bibliografía  
