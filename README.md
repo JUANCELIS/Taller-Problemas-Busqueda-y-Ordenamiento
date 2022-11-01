@@ -30,7 +30,7 @@ _La herramienta utilizada para el desarrollo del trabajo fue:_
 
 ## Documentacion
 _Puedes visualizar la documentacion en el siguiente enlace:_ 
-* [Algoritmos de Búsqueda y Ordenamiento](Aca va el pdf con el informe.)
+* [Algoritmos de Búsqueda y Ordenamiento](https://docs.google.com/document/d/1mOvtFSroNiDYuqa3o4Al7XkL_z-nVrA3/edit)
 
 ## Video
 _En el siguiente link puedes ver el video:_
@@ -48,6 +48,6 @@ _En el siguiente link puedes ver el video:_
  ## Bibliografía  
  
 * Algoritmos de <b> Ordenamiento </b> <b> [Problema de leetcode](https://leetcode.com/problems/sort-an-array). </b> 
-* en el siguiente video se explica como se crea un archivo.txt, se escriben datos en el archivo y se leen: <b> [Video Prueba](https://www.youtube.com/watch?v=zzN5ksCu-Zc). </b> 
+* En el siguiente video se explica como se crea un archivo.txt, se escriben datos en el archivo y se leen: <b> [Link](https://www.youtube.com/watch?v=zzN5ksCu-Zc). </b> 
 
  
